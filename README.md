@@ -118,9 +118,9 @@ uvicorn app:app --reload
 
 ## Authors
 
-- [Bhuvanesh Prasad](https://www.github.com/bhuvaneshprasad)
+- [Egasumanth](https://www.github.com/Egasumanth)
 
 
 ## License
 
-- [MIT License](https://github.com/bhuvaneshprasad/TimeSeries-Forecasting-on-Stock-Market-Data/blob/main/LICENSE)
+- [MIT License](https://github.com/Egasumanth/TimeSeries-Forecasting-on-Stock-Market-Data/blob/main/LICENSE)
